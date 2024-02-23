@@ -1,0 +1,14 @@
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\obj\Debug\net7.0\Construtor_Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\obj\Debug\net7.0\Construtor_Virtual.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\obj\Debug\net7.0\Construtor_Virtual.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\obj\Debug\net7.0\Construtor_Virtual.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\bin\Debug\net7.0\Construtor_Virtual.exe
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\bin\Debug\net7.0\Construtor_Virtual.deps.json
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\bin\Debug\net7.0\Construtor_Virtual.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\bin\Debug\net7.0\Construtor_Virtual.dll
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\bin\Debug\net7.0\Construtor_Virtual.pdb
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\obj\Debug\net7.0\Construtor_Virtual.dll
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\obj\Debug\net7.0\refint\Construtor_Virtual.dll
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\obj\Debug\net7.0\Construtor_Virtual.pdb
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\obj\Debug\net7.0\Construtor_Virtual.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Construtor_Virtual\obj\Debug\net7.0\ref\Construtor_Virtual.dll
